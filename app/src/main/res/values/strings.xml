@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pointwise Welcome</string>
+    <string name="label_last">Last:</string>
+    <string name="label_size">Queue Size:</string>
+</resources>
